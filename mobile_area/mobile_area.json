@@ -1,0 +1,344 @@
+{
+    "countries": [
+        {
+            "name_en": "Afghanistan",
+            "name_zh": "阿富汗",
+            "code": "+93"
+        },
+        {
+            "name_en": "Albania",
+            "name_zh": "阿尔巴尼亚",
+            "code": "+355"
+        },
+        {
+            "name_en": "Algeria",
+            "name_zh": "阿尔及利亚",
+            "code": "+213"
+        },
+        {
+            "name_en": "Andorra",
+            "name_zh": "安道尔",
+            "code": "+376"
+        },
+        {
+            "name_en": "Angola",
+            "name_zh": "安哥拉",
+            "code": "+244"
+        },
+        {
+            "name_en": "Argentina",
+            "name_zh": "阿根廷",
+            "code": "+54"
+        },
+        {
+            "name_en": "Armenia",
+            "name_zh": "亚美尼亚",
+            "code": "+374"
+        },
+        {
+            "name_en": "Australia",
+            "name_zh": "澳大利亚",
+            "code": "+61"
+        },
+        {
+            "name_en": "Austria",
+            "name_zh": "奥地利",
+            "code": "+43"
+        },
+        {
+            "name_en": "Azerbaijan",
+            "name_zh": "阿塞拜疆",
+            "code": "+994"
+        },
+        {
+            "name_en": "Bahamas",
+            "name_zh": "巴哈马",
+            "code": "+1-242"
+        },
+        {
+            "name_en": "Bahrain",
+            "name_zh": "巴林",
+            "code": "+973"
+        },
+        {
+            "name_en": "Bangladesh",
+            "name_zh": "孟加拉国",
+            "code": "+880"
+        },
+        {
+            "name_en": "Barbados",
+            "name_zh": "巴巴多斯",
+            "code": "+1-246"
+        },
+        {
+            "name_en": "Belarus",
+            "name_zh": "白俄罗斯",
+            "code": "+375"
+        },
+        {
+            "name_en": "Belgium",
+            "name_zh": "比利时",
+            "code": "+32"
+        },
+        {
+            "name_en": "Belize",
+            "name_zh": "伯利兹",
+            "code": "+501"
+        },
+        {
+            "name_en": "Benin",
+            "name_zh": "贝宁",
+            "code": "+229"
+        },
+        {
+            "name_en": "Bhutan",
+            "name_zh": "不丹",
+            "code": "+975"
+        },
+        {
+            "name_en": "Bolivia",
+            "name_zh": "玻利维亚",
+            "code": "+591"
+        },
+        {
+            "name_en": "Bosnia and Herzegovina",
+            "name_zh": "波斯尼亚和黑塞哥维那",
+            "code": "+387"
+        },
+        {
+            "name_en": "Botswana",
+            "name_zh": "博茨瓦纳",
+            "code": "+267"
+        },
+        {
+            "name_en": "Brazil",
+            "name_zh": "巴西",
+            "code": "+55"
+        },
+        {
+            "name_en": "Brunei",
+            "name_zh": "文莱",
+            "code": "+673"
+        },
+        {
+            "name_en": "Bulgaria",
+            "name_zh": "保加利亚",
+            "code": "+359"
+        },
+        {
+            "name_en": "Burkina Faso",
+            "name_zh": "布基纳法索",
+            "code": "+226"
+        },
+        {
+            "name_en": "Burundi",
+            "name_zh": "布隆迪",
+            "code": "+257"
+        },
+        {
+            "name_en": "Cambodia",
+            "name_zh": "柬埔寨",
+            "code": "+855"
+        },
+        {
+            "name_en": "Cameroon",
+            "name_zh": "喀麦隆",
+            "code": "+237"
+        },
+        {
+            "name_en": "Canada",
+            "name_zh": "加拿大",
+            "code": "+1"
+        },
+        {
+            "name_en": "Cape Verde",
+            "name_zh": "佛得角",
+            "code": "+238"
+        },
+        {
+            "name_en": "Central African Republic",
+            "name_zh": "中非共和国",
+            "code": "+236"
+        },
+        {
+            "name_en": "Chad",
+            "name_zh": "乍得",
+            "code": "+235"
+        },
+        {
+            "name_en": "Chile",
+            "name_zh": "智利",
+            "code": "+56"
+        },
+        {
+            "name_en": "China",
+            "name_zh": "中国",
+            "code": "+86"
+        },
+        {
+            "name_en": "Colombia",
+            "name_zh": "哥伦比亚",
+            "code": "+57"
+        },
+        {
+            "name_en": "Comoros",
+            "name_zh": "科摩罗",
+            "code": "+269"
+        },
+        {
+            "name_en": "Congo (Brazzaville)",
+            "name_zh": "刚果（布）",
+            "code": "+242"
+        },
+        {
+            "name_en": "Congo (Kinshasa)",
+            "name_zh": "刚果（金）",
+            "code": "+243"
+        },
+        {
+            "name_en": "Costa Rica",
+            "name_zh": "哥斯达黎加",
+            "code": "+506"
+        },
+        {
+            "name_en": "Croatia",
+            "name_zh": "克罗地亚",
+            "code": "+385"
+        },
+        {
+            "name_en": "Cuba",
+            "name_zh": "古巴",
+            "code": "+53"
+        },
+        {
+            "name_en": "Cyprus",
+            "name_zh": "塞浦路斯",
+            "code": "+357"
+        },
+        {
+            "name_en": "Czech Republic",
+            "name_zh": "捷克",
+            "code": "+420"
+        },
+        {
+            "name_en": "Denmark",
+            "name_zh": "丹麦",
+            "code": "+45"
+        },
+        {
+            "name_en": "Djibouti",
+            "name_zh": "吉布提",
+            "code": "+253"
+        },
+        {
+            "name_en": "Dominica",
+            "name_zh": "多米尼克",
+            "code": "+1-767"
+        },
+        {
+            "name_en": "Dominican Republic",
+            "name_zh": "多米尼加共和国",
+            "code": "+1-809"
+        },
+        {
+            "name_en": "East Timor",
+            "name_zh": "东帝汶",
+            "code": "+670"
+        },
+        {
+            "name_en": "Ecuador",
+            "name_zh": "厄瓜多尔",
+            "code": "+593"
+        },
+        {
+            "name_en": "Egypt",
+            "name_zh": "埃及",
+            "code": "+20"
+        },
+        {
+            "name_en": "El Salvador",
+            "name_zh": "萨尔瓦多",
+            "code": "+503"
+        },
+        {
+            "name_en": "Equatorial Guinea",
+            "name_zh": "赤道几内亚",
+            "code": "+240"
+        },
+        {
+            "name_en": "Eritrea",
+            "name_zh": "厄立特里亚",
+            "code": "+291"
+        },
+        {
+            "name_en": "Estonia",
+            "name_zh": "爱沙尼亚",
+            "code": "+372"
+        },
+        {
+            "name_en": "Eswatini",
+            "name_zh": "斯威士兰",
+            "code": "+268"
+        },
+        {
+            "name_en": "Ethiopia",
+            "name_zh": "埃塞俄比亚",
+            "code": "+251"
+        },
+        {
+            "name_en": "Fiji",
+            "name_zh": "斐济",
+            "code": "+679"
+        },
+        {
+            "name_en": "Finland",
+            "name_zh": "芬兰",
+            "code": "+358"
+        },
+        {
+            "name_en": "France",
+            "name_zh": "法国",
+            "code": "+33"
+        },
+        {
+            "name_en": "Gabon",
+            "name_zh": "加蓬",
+            "code": "+241"
+        },
+        {
+            "name_en": "Gambia",
+            "name_zh": "冈比亚",
+            "code": "+220"
+        },
+        {
+            "name_en": "Georgia",
+            "name_zh": "格鲁吉亚",
+            "code": "+995"
+        },
+        {
+            "name_en": "Germany",
+            "name_zh": "德国",
+            "code": "+49"
+        },
+        {
+            "name_en": "Ghana",
+            "name_zh": "加纳",
+            "code": "+233"
+        },
+        {
+            "name_en": "Greece",
+            "name_zh": "希腊",
+            "code": "+30"
+        },
+        {
+            "name_en": "Grenada",
+            "name_zh": "格林纳达",
+            "code": "+1-473"
+        },
+        {
+            "name_en": "Guatemala",
+            "name_zh": "危地马拉",
+            "code": "+502"
+        }
+    ]
+}
